@@ -1,0 +1,153 @@
+#navbar{
+    background-color:#FFF  !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 5px;
+}
+
+
+#logo{
+    height: 60px;
+    width: 80px;
+    border-radius: 30px;
+}
+.banner{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 6.5EM;
+    background-size: 70em 40em ;
+    background-repeat: no-repeat, repeat;
+    opacity: 0.8;
+}
+.banner_heading{
+    opacity: 1 !important;
+    font-family: cursive;
+    font-weight: 700;
+    color: #000;
+}
+.banner_sub{
+    color: #000;
+    font-size:2em ;
+    font-weight: 500;
+    font-family: serif;
+    opacity: 1 !important;
+    margin-top:50px ;
+    margin-bottom:20px ;
+    margin-left:1em ;
+    text-align: center !important;
+    width: 25em !important;
+}
+#Counter{
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 50px !important   ;
+}
+.timer_00{
+    margin-top: 50px;
+}
+#counter_heading{
+    text-align: center;
+    font-family: cursive;
+}
+.counter_p{
+    text-align: center;
+    font-family: cursive;
+    opacity: 0.6;
+    width: 22em;
+    margin-left: 5em;
+    margin-top: 1em;
+}
+.timer{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: antiquewhite;
+    height: 6em !important;
+    margin: 10px;
+}
+.tim{
+    font-size: 1.5em;
+    margin-top: 20px;
+
+}
+sub{
+    color: red;
+}
+#counter_button{
+    width: 10em;
+}
+#counter_inp{
+    width: 40em !important;
+
+}
+#features_head{
+    font-family: cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+/*Footer*/.footer-clean {
+  padding:50px 0;
+  background-color:#fff;
+  color:#4b4c4d;
+}
+
+.footer-clean h3 {
+  margin-top:0;
+  margin-bottom:12px;
+  font-weight:bold;
+  font-size:16px;
+}
+
+.footer-clean ul {
+  padding:0;
+  list-style:none;
+  line-height:1.6;
+  font-size:14px;
+  margin-bottom:0;
+}
+
+.footer-clean ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-clean ul a:hover {
+  opacity:1;
+}
+
+.footer-clean .item.social {
+  text-align:right;
+}
+
+footer{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 10em;
+}
+
+.footer-clean .item.social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin-left:10px;
+  margin-top:22px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-clean .item.social > a:hover {
+  opacity:0.9;
+}
+#footer_content{
+    margin-top: 30px !important;
+}
+
+.footer-clean .copyright {
+  margin-top:14px;
+  margin-bottom:0;
+  font-size:13px;
+  opacity:0.6;
+}
